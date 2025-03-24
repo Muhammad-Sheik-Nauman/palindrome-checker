@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+button {
+    margin: 5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    color: rgb(30, 26, 26);
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+
+#green {
+    background-color: green;
+}
+
+
+#red {
+    background-color: red;
+}
+
+
+#blue {
+    background-color: blue;
+}
+=======
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    
+
+h1 {
+    color: #333;
+    margin-top: auto;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: #436693;
+}
+
+>>>>>>> 0cbac7a (palindrome checker)
